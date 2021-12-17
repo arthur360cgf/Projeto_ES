@@ -1,1 +1,3 @@
-venda_caixao/
+.gitignore
+#iginore o arquivo de venda nessa ramificação
+.venda caixao/
