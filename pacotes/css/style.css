@@ -1,0 +1,89 @@
+html,
+body,
+#home {
+  height: 100%;
+}
+
+body {
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: Helvetica, Arial, sans-serif;
+  margin: 50px;
+}
+
+h1 {
+  text-align: center;
+}
+h2 {
+  margin: 0px;
+}
+
+/* Quadro de preços do pacote de caixão
+*/
+.caixao {
+  background: #111;
+  color: #fff;
+  padding: 30px;
+  margin: 20px;
+  border-radius: 4px;
+}
+
+/* Quadro de preços do pacote de Urnas
+*/
+.Urnas {
+  background: #111;
+  color: #fff;
+  padding: 30px;
+  margin: 20px;
+  border-radius: 4px;
+}
+
+/* Quadro de preços do pacote de Capsulas Criogenicas
+*/
+.cc {
+  background: #111;
+  color: #fff;
+  padding: 30px;
+  margin: 20px;
+  border-radius: 4px;
+}
+
+span {
+  color: #febe01;
+}
+
+p {
+  color: #b2b2b2;
+}
+
+a {
+  display: inline-block;
+  background: #febe01;
+  color: #332200;
+  padding: 10px;
+  border-radius: 4px;
+  text-decoration: none;
+}
+-----------------------------*/ nav.navbar-transparente {
+  padding: 15px 0px;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: white;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #9bf0e1;
+}
+
+.navbar-light .navbar-toggler {
+  color: rgba(255, 255, 255, 0.5);
+  border-color: rgba(255, 255, 255, 0.5);
+}
+
+.divisor {
+  width: 1px;
+  background: white;
+  margin: 12px 15px;
+}
